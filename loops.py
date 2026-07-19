@@ -1,2 +1,4 @@
-for i in range(6):
-    print(i)
+names = ["Harry", "Hermione", "Ron"]
+
+for name in names:
+    print(name)
