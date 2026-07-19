@@ -64,3 +64,6 @@ print(experiment)
 
 experiment.add(1000)
 print(experiment)
+
+s.remove(2)
+print(f"The set has {len(s)} elements.")
