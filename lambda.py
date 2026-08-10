@@ -4,7 +4,7 @@ people = [{"name": "Harry", "house": "Gryffindor"},
          ]
 
 def f(person):
-    return person["name"]
+    return person["house"]
 
 people.sort(key=f)
 
