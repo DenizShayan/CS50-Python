@@ -7,3 +7,6 @@ def index(request):
 
 def deniz(request):
     return HttpResponse("Hello, Deniz!")
+
+def david(request):
+    return HttpResponse("Hello, David!")
