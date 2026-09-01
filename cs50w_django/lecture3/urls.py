@@ -1,5 +1,5 @@
 """
-URL configuration for cs50w_django project.
+URL configuration for lecture3 project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/6.1/topics/http/urls/
